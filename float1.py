@@ -6,4 +6,4 @@ print(b)
 c = 12.5
 d = 4.7
 print(c)
-print()
+print(d)
